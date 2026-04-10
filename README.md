@@ -48,11 +48,6 @@ The dataset contains key information such as:
 ## ⚙️ How the Analysis Flows
 
 ```text
-CSV File → Pandas DataFrame → Data Cleaning → Exploration → Insights → Visualization
+-CSV File → Pandas DataFrame → Data Cleaning → Exploration → Insights → Visualization
 
 ---
-
-##  🚀 Getting Started
-
-```bash
-pip install pandas
